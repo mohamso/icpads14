@@ -1,6 +1,6 @@
 Effective Multi-GPU Communication Using Multiple CUDA Streams and Threads
 ===================================================================================
-An online repository containing the source code for the paper called “An Effective Multi-GPU Communication Scheme Using Multiple CUDA Streams and GPUDirect” submitted to the SC '14 conference. 
+An online repository containing the source code for the paper called “An Effective Multi-GPU Communication Scheme Using Multiple CUDA Streams and GPUDirect” submitted to ICPADS '14 conference. 
 
 The repository is divided as follows: 2 and 4. The former is a directory containing the source code for the two GPU implementations and the latter contains the source code for the four GPU implementations.
 
