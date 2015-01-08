@@ -1,0 +1,2 @@
+	CUDA_INSTALL_PATH=/usr/common/usg/cuda/5.0
+	MPI_HOME=/usr/common/usg/openmpi/1.6.5/gcc
