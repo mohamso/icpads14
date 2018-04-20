@@ -31,3 +31,23 @@ In order to repeat the synchronous baseline experiment with a global problem siz
 and the following parameters are recommended for Kepler:
 
 ../bin/async 256 256 256 100 64 4 1
+
+## License and Citation
+
+This code is released under the [BSD 3-Clause license](https://github.com/mohamso/icpads14/blob/master/LICENSE).
+
+Please cite the following in your publications if it helps your research:
+
+@inproceedings{SourouriGBC14,
+  author    = {Mohammed Sourouri and
+               Tor Gillberg and
+               Scott B. Baden and
+               Xing Cai},
+  title     = {Effective multi-GPU communication using multiple {CUDA} streams and
+               threads},
+  booktitle = {20th {IEEE} International Conference on Parallel and Distributed Systems,
+               {ICPADS} 2014, Hsinchu, Taiwan, December 16-19, 2014},
+  pages     = {981--986},
+  year      = {2014},
+  doi       = {10.1109/PADSW.2014.7097919},
+}
