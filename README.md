@@ -38,6 +38,7 @@ This code is released under the [BSD 3-Clause license](https://github.com/mohams
 
 Please cite the following in your publications if it helps your research:
 
+```
 @inproceedings{SourouriGBC14,
   author    = {Mohammed Sourouri and
                Tor Gillberg and
@@ -51,3 +52,4 @@ Please cite the following in your publications if it helps your research:
   year      = {2014},
   doi       = {10.1109/PADSW.2014.7097919},
 }
+```
